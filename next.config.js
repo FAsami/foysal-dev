@@ -1,6 +1,10 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
+const withTwin = require("./config/withTwin");
+/**
+ * @type {import('next').NextConfig}
+ */
+module.exports = withTwin({
   reactStrictMode: true,
-}
-
-module.exports = nextConfig
+  compiler: {
+    styledComponents: true,
+  },
+});
