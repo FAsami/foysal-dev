@@ -13,7 +13,7 @@ export default function Home() {
             margin: "96px",
           }}
         >
-          Hello !
+          Hello World  !
         </h1>
       </main>
     </>
