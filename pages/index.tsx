@@ -1,19 +1,20 @@
 import Head from 'next/head'
+import tw from 'twin.macro'
+import React from 'react'
 
 export default function Home() {
   return (
     <>
       <Head>
-        <title>Hello </title>
+        <title>foysal </title>
       </Head>
-      <main>
+      <main tw="h-screen w-screen bg-[#242B2E] flex items-center justify-center">
         <h1
-          style={{
-            textAlign: 'center',
-            margin: '96px',
-          }}
+          tw="text-white text-5xl font-bold tracking-[0.15em]"
+          className="animate__animated animate__swing"
         >
-          Hello World !
+          <span tw="text-2xl">Hi I&apos;m</span>
+          <br /> FOYSAL
         </h1>
       </main>
     </>
