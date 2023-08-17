@@ -1,4 +1,4 @@
-import Head from "next/head";
+import Head from 'next/head'
 
 export default function Home() {
   return (
@@ -9,13 +9,13 @@ export default function Home() {
       <main>
         <h1
           style={{
-            textAlign: "center",
-            margin: "96px",
+            textAlign: 'center',
+            margin: '96px',
           }}
         >
-          Hello World  !
+          Hello World !
         </h1>
       </main>
     </>
-  );
+  )
 }
