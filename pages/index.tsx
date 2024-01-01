@@ -25,7 +25,7 @@ const Home = () => {
           />
         </div>
         <div tw="text-center">
-          <h1 tw="pt-1 mb-0 text-gray-900">foysal ahammed</h1>
+          <h1 tw="pt-1 mb-0 text-gray-900">I&apos;m foysal</h1>
           <div tw="text-gray-600 text-xl pt-1  pb-4">Web Developer</div>
           <SocialIcons />
         </div>

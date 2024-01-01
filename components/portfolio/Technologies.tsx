@@ -59,7 +59,7 @@ const Technologies = () => {
     },
     {
       id: 8,
-      label: 'GraphQl',
+      label: 'GraphQL',
       icon: <GrGraphQl size="26px" />,
     },
     {

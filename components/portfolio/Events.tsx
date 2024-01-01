@@ -14,7 +14,7 @@ const Events = () => {
             href="https://www.onosuite.com/"
             target="_blank"
             rel="noopener noreferrer"
-            tw="text-purple-500 no-underline"
+            tw="text-indigo-900 no-underline"
           >
             ONOSUITE
           </a>

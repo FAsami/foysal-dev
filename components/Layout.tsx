@@ -31,21 +31,22 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
             <span tw="text-indigo-900">f</span>oysal.
             <span tw="text-lg text-gray-500">dev</span>
           </div>
-          {/* <div tw="flex items-center gap-12">
-            <div tw="flex items-start gap-3 text-xl">
+          <div tw="flex items-center gap-12">
+            {/* <div tw="flex items-start gap-3 text-xl">
               <div css={styles.link}>projects</div>
               <div css={styles.link}>about</div>
-            </div>
-            <div tw="text-xl flex items-center gap-2 cursor-pointer">
+            </div> */}
+
+            {/* <div tw="text-xl flex items-center gap-1 cursor-pointer">
               <MdOutlineFileDownload />
-              resume
-            </div>
-          </div> */}
+              Resume
+            </div> */}
+          </div>
         </header>
         {children}
         <div tw="text-center py-6">
-          Created by foysal with <FaHeart />
-          &copy;{new Date().getFullYear()}
+          &copy;Created by foysal with <FaHeart />
+          {new Date().getFullYear()}
         </div>
       </div>
     </>
