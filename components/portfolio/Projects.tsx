@@ -35,6 +35,8 @@ const Projects = () => {
               key={id}
             >
               <AntDImage
+                width={256}
+                height={220}
                 tw="h-24 w-auto rounded-md"
                 src="/projects/mullayan.png"
               />

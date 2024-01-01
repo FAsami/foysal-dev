@@ -118,7 +118,7 @@ const Technologies = () => {
 
   return (
     <div tw="flex flex-col items-center w-full justify-start  bg-white overflow-y-auto scroll-smooth">
-      <h2 tw="text-center text-4xl flex gap-4 items-center pt-56 pb-12">
+      <h2 tw="text-center text-4xl flex gap-4 items-center pt-12 md:pt-56 pb-12">
         <BsTools tw="text-3xl" />
         toolbox
       </h2>

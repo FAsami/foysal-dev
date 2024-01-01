@@ -19,12 +19,16 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
   return (
     <>
       <Head>
-        <title>foysal.dev</title>
+        <title>foysal</title>
+        <meta
+          name="description"
+          content="I am Foysal Ahammed working as  a web developer working for more than three years.Currently I am working for onosuite. I was living and breathing with Javascript and web related technologies since last 4 years. "
+        />
       </Head>
       <div tw="container mx-auto font-barlow px-4">
         <header tw="flex items-center justify-between py-4 sticky top-0 bg-white z-[999]">
           <div tw="cursor-pointer text-4xl font-medium">
-            <span tw="text-indigo-700">f</span>oysal.
+            <span tw="text-indigo-900">f</span>oysal.
             <span tw="text-lg text-gray-500">dev</span>
           </div>
           {/* <div tw="flex items-center gap-12">
