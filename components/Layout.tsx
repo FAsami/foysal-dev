@@ -24,6 +24,10 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
           name="description"
           content="I am Foysal Ahammed working as  a web developer working for more than three years.Currently I am working for onosuite. I was living and breathing with Javascript and web related technologies since last 4 years. "
         />
+        <meta
+          name="google-site-verification"
+          content="zBlFH_EaL-cCWZURf1lw62HlCf9FDE1U4UOyGhBQ0zU"
+        />
       </Head>
       <div tw="container mx-auto font-barlow px-4">
         <header tw="flex items-center justify-between py-4 sticky top-0 bg-white z-[999]">
