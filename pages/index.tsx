@@ -28,7 +28,7 @@ const Home = () => {
           <h1 tw="pt-1 mb-0 text-gray-900">Foysal Sami</h1>
           <div tw="text-gray-800 text-xl pt-1  pb-4">Web Developer</div>
           <div tw="text-gray-700 text-lg pt-1 text-center leading-tight tracking-wide pb-4 max-w-[500px]">
-            Living and breathing in the web from last 4 years. <br />I love to
+            Living and breathing in the web from last 3 years. <br />I love to
             code pixel perfect user interface. <br /> Well-versed in data
             structures. <br /> Passionate to learn new technologies.
           </div>
