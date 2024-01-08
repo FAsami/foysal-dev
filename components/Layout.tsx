@@ -19,7 +19,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
   return (
     <>
       <Head>
-        <title>foysal</title>
+        <title>Foysal | Web Developer</title>
         <meta
           name="description"
           content="I am Foysal Ahammed working as  a web developer working for more than three years.Currently I am working for onosuite. I was living and breathing with Javascript and web related technologies since last 4 years. "

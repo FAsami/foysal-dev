@@ -25,8 +25,13 @@ const Home = () => {
           />
         </div>
         <div tw="text-center">
-          <h1 tw="pt-1 mb-0 text-gray-900">I&apos;m foysal</h1>
-          <div tw="text-gray-600 text-xl pt-1  pb-4">Web Developer</div>
+          <h1 tw="pt-1 mb-0 text-gray-900">Foysal Sami</h1>
+          <div tw="text-gray-800 text-xl pt-1  pb-4">Web Developer</div>
+          <div tw="text-gray-500 text-lg pt-1  leading-tight tracking-wide pb-4 max-w-[400px]">
+            Living and breathing in the web from last 4 years. I love to code
+            pixel perfect user interface. Well-versed in data structures.
+            Passionate to learn new technologies.
+          </div>
           <SocialIcons />
         </div>
         <Technologies />
