@@ -6,6 +6,7 @@ export default {
     extend: {
       fontFamily: {
         barlow: ['Barlow Condensed', 'sans-serif'],
+        ubuntu: ['Ubuntu', 'sans-serif'],
       },
     },
   },

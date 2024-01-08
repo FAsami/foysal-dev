@@ -29,7 +29,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
           content="zBlFH_EaL-cCWZURf1lw62HlCf9FDE1U4UOyGhBQ0zU"
         />
       </Head>
-      <div tw="container mx-auto font-barlow px-4">
+      <div tw="container mx-auto font-ubuntu px-4">
         <header tw="flex items-center justify-between py-4 sticky top-0 bg-white z-[999]">
           <div tw="cursor-pointer text-4xl font-medium">
             <span tw="text-indigo-900">f</span>oysal.
